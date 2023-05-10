@@ -1,3 +1,7 @@
 .dropdown-menu[data-bs-popper] {
     left: -120px;
   }
+
+  .btn-success {
+    margin-right: 10px;
+  }
