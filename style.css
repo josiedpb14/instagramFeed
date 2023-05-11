@@ -5,3 +5,16 @@
   .btn-success {
     margin-right: 10px;
   }
+  
+  .margin10px{
+    margin-left: 10px;
+  }
+  .marginTop{
+    margin-top: 35px;
+  }
+  .blueGrey{
+    color: grey;
+  }
+  .blueGrey :active{
+    color: blue;
+  }
