@@ -18,3 +18,7 @@
   .blueGrey :active{
     color: blue;
   }
+  .centeredPost{
+    display: flex;
+    justify-content: center;
+  }
