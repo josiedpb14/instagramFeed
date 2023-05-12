@@ -22,3 +22,10 @@
     display: flex;
     justify-content: center;
   }
+  .nav-pills {
+    --bs-nav-pills-link-active-color: #0d6efd;
+    --bs-nav-pills-link-active-bg: transparent;
+  }
+  .nav {
+    --bs-nav-link-color: #898b8d;
+  }
